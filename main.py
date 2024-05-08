@@ -317,7 +317,7 @@ try:
         return flask.jsonify({"status": "success"}), 201  # return success status
 
     if __name__ == "__main__":
-        app.run(host="<id>",port=3333, debug=True)
+        app.run(host="IPADDRESS",port=3333, debug=True)
 
 
 except Exception as e:

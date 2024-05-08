@@ -6,6 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="255910c1-e6a8-4c67-839e-9ce89b680e66" name="Changes" comment="Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Category.html" beforeDir="false" afterPath="$PROJECT_DIR$/Category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Customer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/Invoice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InvoiceDetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/InvoiceDetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewCategory.html" beforeDir="false" afterPath="$PROJECT_DIR$/NewCategory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewCustomer.html" beforeDir="false" afterPath="$PROJECT_DIR$/NewCustomer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewInvoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/NewInvoice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewProduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/NewProduct.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewStaff.html" beforeDir="false" afterPath="$PROJECT_DIR$/NewStaff.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product.html" beforeDir="false" afterPath="$PROJECT_DIR$/Product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/Staff.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +46,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Minhatou"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Minhatou&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Minhatou/API.git",
-    "accountId": "530b1017-64b0-4126-baee-58e4c31cb1cd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Minhatou/API.git&quot;,
+    &quot;accountId&quot;: &quot;530b1017-64b0-4126-baee-58e4c31cb1cd&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -104,7 +116,7 @@
       <workItem from="1715087308187" duration="7257000" />
       <workItem from="1715101221296" duration="15445000" />
       <workItem from="1715141370807" duration="7659000" />
-      <workItem from="1715149381160" duration="1712000" />
+      <workItem from="1715149381160" duration="2429000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -122,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715150194730</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test">
+      <option name="closed" value="true" />
+      <created>1715151581293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715151581293</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +191,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/API$main.coverage" NAME="main Coverage Results" MODIFIED="1715150066720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/API$main.coverage" NAME="main Coverage Results" MODIFIED="1715151913454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

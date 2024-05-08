@@ -293,7 +293,7 @@ form input[type="submit"]:hover {
     $(document).ready(function() {
         $(document).ready(function() {
     // Fetch the list of all categories
-    fetch('http://<id>:3333/getallclothestypes')
+    fetch('http://IPADDRESS:3333/getallclothestypes')
         .then(response => response.json())
         .then(data => {
             // Find the category with the highest ID
@@ -320,7 +320,7 @@ form input[type="submit"]:hover {
 
             $.ajax({
                 type: 'POST',
-                url: 'http://<id>:3333/addclothestype',
+                url: 'http://IPADDRESS:3333/addclothestype',
                 data: JSON.stringify(formData),
                 contentType: 'application/json',
                 dataType: 'json',

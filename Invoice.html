@@ -358,7 +358,7 @@
   </form>
 </div>
 <script>
-fetch('http://<id>:3333/getallinvoices')
+fetch('http://IPADDRESS:3333/getallinvoices')
   .then(response => response.json())
   .then(data => {
     let table = document.getElementById('customerTable');
@@ -383,7 +383,7 @@ for(let btn of detailsButtons) {
     let row = document.getElementById(rowId);
     let id = row.children[0].innerText;
     // Fetch the details for the invoice with the given ID
-    fetch(`http://<id>:3333/getinvoice/${id}`)
+    fetch(`http://IPADDRESS:3333/getinvoice/${id}`)
       .then(response => response.json())
       .then(data => {
          // Open the new HTML file in a new window or tab
@@ -414,7 +414,7 @@ for(let btn of deleteButtons) {
     let rowId = event.target.parentElement.parentElement.id;
     let confirmation = confirm("Are you sure you want to delete this item?");
     if (confirmation) {
-      fetch(`http://<id>:3333/deleteinvoice/${rowId}`, {
+      fetch(`http://IPADDRESS:3333/deleteinvoice/${rowId}`, {
         method: 'DELETE'
       })
       .then(response => response.json())
@@ -432,7 +432,7 @@ document.getElementById('submitBtn').addEventListener('click', function() {
   let MaNV = document.getElementById('MaNV').value;
   let NgayBan = document.getElementById('NgayBan').value;
   let MaKH = document.getElementById('MaKH').value;
-  fetch(`http://<id>:3333/updateinvoice/${SoHDB}`, {
+  fetch(`http://IPADDRESS:3333/updateinvoice/${SoHDB}`, {
     method: 'PUT',
     headers: {
       'Content-Type': 'application/json'
