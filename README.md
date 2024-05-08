@@ -1,5 +1,6 @@
 Cách chạy (PyCharm):
 - Tải project về rồi mở lên hoặc clone project bằng Pycharm
+- Cài đặt database bằng file QuanAot.sql bằng SQL Server
 - Trong file main.py:
   + Sửa IPADDRESS thành ip của mình (Ctrl + Shift + R để sửa trong toàn bộ file, không nên replace all)
   + Sửa CSDL SQL Server
