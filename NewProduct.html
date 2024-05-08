@@ -300,7 +300,7 @@ form input[type="submit"]:hover {
 
     <script>
         $(document).ready(function() {
-            fetch('http://192.168.68.103:3333/getallclothes')
+            fetch('http://<id>:3333/getallclothes')
         .then(response => response.json())
         .then(data => {
             // Find the product with the highest ID
@@ -332,7 +332,7 @@ form input[type="submit"]:hover {
 
                 $.ajax({
                     type: 'POST',
-                    url: 'http://192.168.68.103:3333/addclothes',
+                    url: 'http://<id>:3333/addclothes',
                     data: JSON.stringify(formData),
                     contentType: 'application/json',
                     dataType: 'json',
