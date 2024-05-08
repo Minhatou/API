@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="255910c1-e6a8-4c67-839e-9ce89b680e66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/API.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Invoice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InvoiceDetails.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewCategory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewCustomer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewInvoice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewProduct.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewStaff.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Staff.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="255910c1-e6a8-4c67-839e-9ce89b680e66" name="Changes" comment="Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +34,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Minhatou"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Minhatou/API.git",
@@ -115,8 +104,17 @@
       <workItem from="1715087308187" duration="7257000" />
       <workItem from="1715101221296" duration="15445000" />
       <workItem from="1715141370807" duration="7659000" />
-      <workItem from="1715149381160" duration="323000" />
+      <workItem from="1715149381160" duration="685000" />
     </task>
+    <task id="LOCAL-00001" summary="Test">
+      <option name="closed" value="true" />
+      <created>1715149729701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715149729701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +142,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
